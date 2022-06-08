@@ -1,15 +1,14 @@
-# DoliGov
-The Open Source ERP for Public Administrations
-
-
-
-
+![image](https://user-images.githubusercontent.com/10772984/172575946-125246bc-69b4-43bc-a189-27736dfaaa3b.png)
+<br>
+<br>
+<br>
 ## Welcome to the GitHub of DoliGov 👋
 
 DoliGov is an adaptation of the <a href="https://www.dolibarr.org">Dolibarr ERP/CRM</a> project to the spcific needs of public administrations.
 
 A brief introduction is available in <a href="https://www.doligov.de">German</a>. 
-
+<br>
+<br>
 ## What's next?
 
 The project is currently in the process being set up by <a href="https://www.bloxera.com">Bloxera</a>, a German digitalisation start-up. If you 
