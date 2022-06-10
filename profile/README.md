@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/10772984/172575946-125246bc-69b4-43bc-a189-27736dfaaa3b.png)
+![doligov_claim](https://user-images.githubusercontent.com/10772984/173033220-e5b14be8-30f2-4bce-bf90-8b6a9009471b.png)
 <br>
 <br>
 <br>
